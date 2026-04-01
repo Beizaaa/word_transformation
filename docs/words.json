@@ -1,0 +1,3816 @@
+{
+  "words": [
+    {
+      "id": "people",
+      "base": "people",
+      "category": "noun",
+      "definition": "human beings in general or a group",
+      "example": "People learn languages in different ways.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "person",
+          "category": "noun",
+          "example": "Each person has a unique learning style."
+        },
+        {
+          "word": "personal",
+          "category": "adjective",
+          "example": "This is a personal decision."
+        },
+        {
+          "word": "personally",
+          "category": "adverb",
+          "example": "I personally prefer quiet study."
+        },
+        {
+          "word": "personality",
+          "category": "noun",
+          "example": "She has a warm personality."
+        },
+        {
+          "word": "impersonal",
+          "category": "adjective",
+          "example": "The email sounded cold and impersonal."
+        },
+        {
+          "word": "personalize",
+          "category": "verb",
+          "example": "You can personalize your learning plan."
+        }
+      ]
+    },
+    {
+      "id": "job",
+      "base": "job",
+      "category": "noun",
+      "definition": "a piece of work or paid employment",
+      "example": "She found a job as a language teacher.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "jobless",
+          "category": "adjective",
+          "example": "He was jobless for three months."
+        },
+        {
+          "word": "joblessness",
+          "category": "noun",
+          "example": "Joblessness can cause stress."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "base": "world",
+      "category": "noun",
+      "definition": "the earth and all its people and places",
+      "example": "Learning English opens the world to you.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "worldly",
+          "category": "adjective",
+          "example": "He is a worldly and experienced traveller."
+        },
+        {
+          "word": "worldwide",
+          "category": "adjective",
+          "example": "English is spoken worldwide."
+        },
+        {
+          "word": "worldwide",
+          "category": "adverb",
+          "example": "The app is used worldwide."
+        }
+      ]
+    },
+    {
+      "id": "idea",
+      "base": "idea",
+      "category": "noun",
+      "definition": "a thought or plan formed in the mind",
+      "example": "She had a great idea for the project.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "ideal",
+          "category": "noun",
+          "example": "Peace is a worthy ideal."
+        },
+        {
+          "word": "ideal",
+          "category": "adjective",
+          "example": "This is an ideal time to study."
+        },
+        {
+          "word": "ideally",
+          "category": "adverb",
+          "example": "Ideally, we study for one hour each day."
+        },
+        {
+          "word": "idealize",
+          "category": "verb",
+          "example": "Don't idealize the past."
+        },
+        {
+          "word": "idealistic",
+          "category": "adjective",
+          "example": "She has an idealistic view of learning."
+        }
+      ]
+    },
+    {
+      "id": "time",
+      "base": "time",
+      "category": "noun",
+      "definition": "the ongoing sequence of events; a measured period",
+      "example": "Time is the most valuable resource.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "time",
+          "category": "verb",
+          "example": "Time yourself when you do this quiz."
+        },
+        {
+          "word": "timely",
+          "category": "adjective",
+          "example": "That was a timely reminder."
+        },
+        {
+          "word": "timeless",
+          "category": "adjective",
+          "example": "Shakespeare wrote timeless stories."
+        },
+        {
+          "word": "timed",
+          "category": "adjective",
+          "example": "It is a timed test."
+        },
+        {
+          "word": "timer",
+          "category": "noun",
+          "example": "Set a timer for twenty minutes."
+        }
+      ]
+    },
+    {
+      "id": "day",
+      "base": "day",
+      "category": "noun",
+      "definition": "a period of twenty-four hours",
+      "example": "Practice English every day.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "daily",
+          "category": "adjective",
+          "example": "I have a daily routine."
+        },
+        {
+          "word": "daily",
+          "category": "adverb",
+          "example": "She exercises daily."
+        }
+      ]
+    },
+    {
+      "id": "task",
+      "base": "task",
+      "category": "noun",
+      "definition": "a piece of work to be done",
+      "example": "Complete each task before moving on.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "task",
+          "category": "verb",
+          "example": "She was tasked with writing the report."
+        },
+        {
+          "word": "tasked",
+          "category": "adjective",
+          "example": "The tasked team finished early."
+        }
+      ]
+    },
+    {
+      "id": "code",
+      "base": "code",
+      "category": "noun",
+      "definition": "a system of signs or programming instructions",
+      "example": "He wrote code to build the app.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "code",
+          "category": "verb",
+          "example": "I love to code in Python."
+        },
+        {
+          "word": "coder",
+          "category": "noun",
+          "example": "She is a talented coder."
+        },
+        {
+          "word": "coding",
+          "category": "noun",
+          "example": "Coding is a useful skill."
+        },
+        {
+          "word": "coded",
+          "category": "adjective",
+          "example": "The message was coded."
+        },
+        {
+          "word": "decode",
+          "category": "verb",
+          "example": "Can you decode this message?"
+        },
+        {
+          "word": "encode",
+          "category": "verb",
+          "example": "We encode data for security."
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "base": "language",
+      "category": "noun",
+      "definition": "a system of communication used by a country or community",
+      "example": "English is a global language.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "linguistic",
+          "category": "adjective",
+          "example": "She has strong linguistic skills."
+        },
+        {
+          "word": "linguistically",
+          "category": "adverb",
+          "example": "The two languages are linguistically similar."
+        }
+      ]
+    },
+    {
+      "id": "boring",
+      "base": "boring",
+      "category": "adjective",
+      "definition": "not interesting or exciting",
+      "example": "The lecture was boring and slow.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "boringly",
+          "category": "adverb",
+          "example": "He spoke boringly for two hours."
+        },
+        {
+          "word": "boredom",
+          "category": "noun",
+          "example": "Boredom can reduce learning."
+        },
+        {
+          "word": "bore",
+          "category": "verb",
+          "example": "Long speeches bore me."
+        },
+        {
+          "word": "bore",
+          "category": "noun",
+          "example": "The meeting was a real bore."
+        },
+        {
+          "word": "bored",
+          "category": "adjective",
+          "example": "I felt bored during the lesson."
+        }
+      ]
+    },
+    {
+      "id": "fast",
+      "base": "fast",
+      "category": "adjective",
+      "definition": "moving or happening quickly",
+      "example": "She is a fast learner.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "fast",
+          "category": "adverb",
+          "example": "He reads very fast."
+        },
+        {
+          "word": "faster",
+          "category": "adjective",
+          "example": "We need a faster computer."
+        },
+        {
+          "word": "fastest",
+          "category": "adjective",
+          "example": "That is the fastest method."
+        },
+        {
+          "word": "fasten",
+          "category": "verb",
+          "example": "Fasten your seatbelt."
+        },
+        {
+          "word": "fastness",
+          "category": "noun",
+          "example": "The fastness of the internet amazed her."
+        }
+      ]
+    },
+    {
+      "id": "cold",
+      "base": "cold",
+      "category": "adjective",
+      "definition": "at a low temperature; not warm",
+      "example": "The classroom was cold in winter.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "coldly",
+          "category": "adverb",
+          "example": "He spoke coldly to the student."
+        },
+        {
+          "word": "coldness",
+          "category": "noun",
+          "example": "The coldness of the room made everyone uncomfortable."
+        },
+        {
+          "word": "colder",
+          "category": "adjective",
+          "example": "January is colder than November."
+        },
+        {
+          "word": "coldest",
+          "category": "adjective",
+          "example": "That was the coldest winter on record."
+        }
+      ]
+    },
+    {
+      "id": "hot",
+      "base": "hot",
+      "category": "adjective",
+      "definition": "at a high temperature; very warm",
+      "example": "The coffee is too hot to drink.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "hotly",
+          "category": "adverb",
+          "example": "The topic was hotly debated."
+        },
+        {
+          "word": "hotter",
+          "category": "adjective",
+          "example": "Today is hotter than yesterday."
+        },
+        {
+          "word": "hottest",
+          "category": "adjective",
+          "example": "This is the hottest summer ever."
+        },
+        {
+          "word": "heat",
+          "category": "noun",
+          "example": "The heat from the sun was intense."
+        },
+        {
+          "word": "heat",
+          "category": "verb",
+          "example": "Heat the water before adding tea."
+        },
+        {
+          "word": "preheat",
+          "category": "verb",
+          "example": "Preheat the oven to 180 degrees."
+        }
+      ]
+    },
+    {
+      "id": "little",
+      "base": "little",
+      "category": "adjective",
+      "definition": "small in size or amount",
+      "example": "I have a little time to study today.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "little",
+          "category": "adverb",
+          "example": "She spoke a little quickly."
+        },
+        {
+          "word": "less",
+          "category": "adjective",
+          "example": "I have less time than you."
+        },
+        {
+          "word": "least",
+          "category": "adjective",
+          "example": "This is the least difficult exercise."
+        },
+        {
+          "word": "least",
+          "category": "adverb",
+          "example": "I like grammar exercises least."
+        }
+      ]
+    },
+    {
+      "id": "big",
+      "base": "big",
+      "category": "adjective",
+      "definition": "large in size or importance",
+      "example": "Learning a language is a big achievement.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "bigger",
+          "category": "adjective",
+          "example": "This class is bigger than last year's."
+        },
+        {
+          "word": "biggest",
+          "category": "adjective",
+          "example": "That was the biggest mistake."
+        }
+      ]
+    },
+    {
+      "id": "tiny",
+      "base": "tiny",
+      "category": "adjective",
+      "definition": "very small",
+      "example": "There was a tiny error in the sentence.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "tinier",
+          "category": "adjective",
+          "example": "The second font is tinier than the first."
+        },
+        {
+          "word": "tiniest",
+          "category": "adjective",
+          "example": "It was the tiniest detail."
+        }
+      ]
+    },
+    {
+      "id": "slim",
+      "base": "slim",
+      "category": "adjective",
+      "definition": "thin; small in amount or chance",
+      "example": "There is only a slim chance of success.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "slim",
+          "category": "verb",
+          "example": "Exercise will help you slim down."
+        },
+        {
+          "word": "slimmer",
+          "category": "adjective",
+          "example": "The new design is slimmer."
+        },
+        {
+          "word": "slimly",
+          "category": "adverb",
+          "example": "She was slimly built."
+        },
+        {
+          "word": "slimness",
+          "category": "noun",
+          "example": "The slimness of the phone is impressive."
+        }
+      ]
+    },
+    {
+      "id": "talk",
+      "base": "talk",
+      "category": "verb",
+      "definition": "to speak and communicate with someone",
+      "example": "Let's talk about your progress.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "talk",
+          "category": "noun",
+          "example": "We had a long talk after class."
+        },
+        {
+          "word": "talker",
+          "category": "noun",
+          "example": "He is a great talker."
+        },
+        {
+          "word": "talkative",
+          "category": "adjective",
+          "example": "She becomes very talkative when nervous."
+        },
+        {
+          "word": "talkatively",
+          "category": "adverb",
+          "example": "He spoke talkatively for an hour."
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "base": "work",
+      "category": "verb",
+      "definition": "to do a job or task; to function",
+      "example": "I work hard to improve my English.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "work",
+          "category": "noun",
+          "example": "I have a lot of work to finish."
+        },
+        {
+          "word": "worker",
+          "category": "noun",
+          "example": "She is a dedicated worker."
+        },
+        {
+          "word": "working",
+          "category": "adjective",
+          "example": "This is a working prototype."
+        },
+        {
+          "word": "working",
+          "category": "noun",
+          "example": "The working of the machine is complex."
+        },
+        {
+          "word": "workable",
+          "category": "adjective",
+          "example": "That is a workable plan."
+        },
+        {
+          "word": "overwork",
+          "category": "verb",
+          "example": "Do not overwork yourself before the exam."
+        },
+        {
+          "word": "rework",
+          "category": "verb",
+          "example": "Let me rework this paragraph."
+        },
+        {
+          "word": "teamwork",
+          "category": "noun",
+          "example": "Good teamwork leads to success."
+        }
+      ]
+    },
+    {
+      "id": "see",
+      "base": "see",
+      "category": "verb",
+      "definition": "to perceive with the eyes; to understand",
+      "example": "I can see the difference now.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "sight",
+          "category": "noun",
+          "example": "Learning is a wonderful sight."
+        },
+        {
+          "word": "visible",
+          "category": "adjective",
+          "example": "The improvement is clearly visible."
+        },
+        {
+          "word": "visibly",
+          "category": "adverb",
+          "example": "She was visibly excited."
+        },
+        {
+          "word": "invisible",
+          "category": "adjective",
+          "example": "Some grammar rules seem invisible at first."
+        },
+        {
+          "word": "vision",
+          "category": "noun",
+          "example": "She has a clear vision of her goals."
+        },
+        {
+          "word": "visual",
+          "category": "adjective",
+          "example": "Visual aids help learners remember words."
+        },
+        {
+          "word": "visually",
+          "category": "adverb",
+          "example": "The chart presents data visually."
+        },
+        {
+          "word": "oversee",
+          "category": "verb",
+          "example": "Teachers oversee student progress."
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "base": "watch",
+      "category": "verb",
+      "definition": "to look at something carefully over time",
+      "example": "Watch English films to improve your listening.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "watch",
+          "category": "noun",
+          "example": "She glanced at her watch."
+        },
+        {
+          "word": "watcher",
+          "category": "noun",
+          "example": "He is an avid bird watcher."
+        },
+        {
+          "word": "watchful",
+          "category": "adjective",
+          "example": "Be watchful for spelling errors."
+        },
+        {
+          "word": "watchfully",
+          "category": "adverb",
+          "example": "She watchfully reviewed each answer."
+        }
+      ]
+    },
+    {
+      "id": "run",
+      "base": "run",
+      "category": "verb",
+      "definition": "to move quickly on foot; to operate",
+      "example": "Run the program and check the output.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "run",
+          "category": "noun",
+          "example": "Let's do a test run first."
+        },
+        {
+          "word": "runner",
+          "category": "noun",
+          "example": "She is a long-distance runner."
+        },
+        {
+          "word": "running",
+          "category": "adjective",
+          "example": "Keep a running list of new words."
+        },
+        {
+          "word": "running",
+          "category": "noun",
+          "example": "Running keeps her focused."
+        },
+        {
+          "word": "rerun",
+          "category": "verb",
+          "example": "We can rerun the experiment."
+        },
+        {
+          "word": "rerun",
+          "category": "noun",
+          "example": "I watched the rerun of the lecture."
+        }
+      ]
+    },
+    {
+      "id": "read",
+      "base": "read",
+      "category": "verb",
+      "definition": "to look at and understand written words",
+      "example": "Read a newspaper article every day.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "reader",
+          "category": "noun",
+          "example": "She is an avid reader."
+        },
+        {
+          "word": "reading",
+          "category": "noun",
+          "example": "Reading improves vocabulary."
+        },
+        {
+          "word": "readable",
+          "category": "adjective",
+          "example": "The text is clear and readable."
+        },
+        {
+          "word": "readably",
+          "category": "adverb",
+          "example": "The instructions were readably written."
+        },
+        {
+          "word": "unreadable",
+          "category": "adjective",
+          "example": "His handwriting is unreadable."
+        },
+        {
+          "word": "reread",
+          "category": "verb",
+          "example": "Reread the passage if you miss something."
+        }
+      ]
+    },
+    {
+      "id": "do",
+      "base": "do",
+      "category": "verb",
+      "definition": "to perform an action or task",
+      "example": "Do your homework before class.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "doer",
+          "category": "noun",
+          "example": "Be a doer, not just a dreamer."
+        },
+        {
+          "word": "doable",
+          "category": "adjective",
+          "example": "This challenge is totally doable."
+        },
+        {
+          "word": "redo",
+          "category": "verb",
+          "example": "Redo the exercise more carefully."
+        },
+        {
+          "word": "undo",
+          "category": "verb",
+          "example": "You can undo a mistake by practising."
+        },
+        {
+          "word": "deed",
+          "category": "noun",
+          "example": "A good deed changes someone's day."
+        }
+      ]
+    },
+    {
+      "id": "play",
+      "base": "play",
+      "category": "verb",
+      "definition": "to engage in activities for fun; to perform",
+      "example": "Play word games to practise vocabulary.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "play",
+          "category": "noun",
+          "example": "Language play makes learning fun."
+        },
+        {
+          "word": "player",
+          "category": "noun",
+          "example": "Every quiz player gets feedback."
+        },
+        {
+          "word": "playful",
+          "category": "adjective",
+          "example": "Take a playful approach to learning."
+        },
+        {
+          "word": "playfully",
+          "category": "adverb",
+          "example": "She playfully tried different accents."
+        },
+        {
+          "word": "playfulness",
+          "category": "noun",
+          "example": "Playfulness reduces language anxiety."
+        }
+      ]
+    },
+    {
+      "id": "study",
+      "base": "study",
+      "category": "verb",
+      "definition": "to learn about a subject through reading and practice",
+      "example": "Study new words in context.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "study",
+          "category": "noun",
+          "example": "A study shows that reading helps fluency."
+        },
+        {
+          "word": "student",
+          "category": "noun",
+          "example": "Every student learns differently."
+        },
+        {
+          "word": "studious",
+          "category": "adjective",
+          "example": "She is a studious and focused learner."
+        },
+        {
+          "word": "studiously",
+          "category": "adverb",
+          "example": "He studiously avoided grammar mistakes."
+        }
+      ]
+    },
+    {
+      "id": "develop",
+      "base": "develop",
+      "category": "verb",
+      "definition": "to grow, improve, or create over time",
+      "example": "Develop your vocabulary every day.",
+      "pool": 1,
+      "transformations": [
+        {
+          "word": "developer",
+          "category": "noun",
+          "example": "She is a software developer."
+        },
+        {
+          "word": "development",
+          "category": "noun",
+          "example": "Language development takes time."
+        },
+        {
+          "word": "developing",
+          "category": "adjective",
+          "example": "She is a developing writer."
+        },
+        {
+          "word": "developed",
+          "category": "adjective",
+          "example": "His grammar is well developed."
+        },
+        {
+          "word": "developmental",
+          "category": "adjective",
+          "example": "These are developmental stages in learning."
+        },
+        {
+          "word": "redevelop",
+          "category": "verb",
+          "example": "We need to redevelop this lesson plan."
+        },
+        {
+          "word": "underdeveloped",
+          "category": "adjective",
+          "example": "Her writing skills are still underdeveloped."
+        }
+      ]
+    },
+    {
+      "id": "for",
+      "base": "for",
+      "category": "preposition",
+      "definition": "indicating purpose, recipient, or duration",
+      "example": "I studied for three hours.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "on",
+      "base": "on",
+      "category": "preposition",
+      "definition": "touching a surface; about a topic",
+      "example": "The book is on the table.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "in",
+      "base": "in",
+      "category": "preposition",
+      "definition": "inside or within a space or time period",
+      "example": "Write the answer in the box.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "at",
+      "base": "at",
+      "category": "preposition",
+      "definition": "indicating location or time",
+      "example": "She arrived at the library at nine.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "by",
+      "base": "by",
+      "category": "preposition",
+      "definition": "beside; not later than; showing agent",
+      "example": "Finish the task by Friday.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "over",
+      "base": "over",
+      "category": "preposition",
+      "definition": "above; across; more than",
+      "example": "She thought over the problem carefully.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "and",
+      "base": "and",
+      "category": "connector",
+      "definition": "used to join words or clauses",
+      "example": "She studies reading and writing.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "but",
+      "base": "but",
+      "category": "connector",
+      "definition": "used to introduce a contrast or exception",
+      "example": "I like grammar, but spelling is harder.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "or",
+      "base": "or",
+      "category": "connector",
+      "definition": "used to show an alternative",
+      "example": "Choose a noun or a verb.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "if",
+      "base": "if",
+      "category": "connector",
+      "definition": "used to introduce a condition",
+      "example": "If you practise daily, you will improve.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "because",
+      "base": "because",
+      "category": "connector",
+      "definition": "used to introduce a reason",
+      "example": "She passed because she studied hard.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "a",
+      "base": "a",
+      "category": "article/quantifier",
+      "definition": "indefinite article used before a singular noun",
+      "example": "She is a teacher.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "the",
+      "base": "the",
+      "category": "article/quantifier",
+      "definition": "definite article used before a specific noun",
+      "example": "Open the book to page one.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "much",
+      "base": "much",
+      "category": "article/quantifier",
+      "definition": "a large amount of (used with uncountable nouns)",
+      "example": "There is much to learn.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "few",
+      "base": "few",
+      "category": "article/quantifier",
+      "definition": "a small number of",
+      "example": "I know a few words in French.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "many",
+      "base": "many",
+      "category": "article/quantifier",
+      "definition": "a large number of",
+      "example": "There are many ways to learn a language.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "any",
+      "base": "any",
+      "category": "article/quantifier",
+      "definition": "used to refer to one or some of a thing",
+      "example": "Do you have any questions?",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "now",
+      "base": "now",
+      "category": "adverb",
+      "definition": "at the present time",
+      "example": "Start practising now.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "here",
+      "base": "here",
+      "category": "adverb",
+      "definition": "in, at, or to this place",
+      "example": "Write your answer here.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "there",
+      "base": "there",
+      "category": "adverb",
+      "definition": "in, at, or to that place",
+      "example": "Put the book over there.",
+      "pool": 1,
+      "transformations": []
+    },
+    {
+      "id": "help",
+      "base": "help",
+      "category": "verb",
+      "definition": "to make it easier for someone to do something",
+      "example": "Can you help me understand this rule?",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "help",
+          "category": "noun",
+          "example": "I need some help with this task."
+        },
+        {
+          "word": "helper",
+          "category": "noun",
+          "example": "She is a wonderful helper."
+        },
+        {
+          "word": "helpful",
+          "category": "adjective",
+          "example": "That was a very helpful tip."
+        },
+        {
+          "word": "helpfully",
+          "category": "adverb",
+          "example": "He helpfully explained each step."
+        },
+        {
+          "word": "helpless",
+          "category": "adjective",
+          "example": "Without a dictionary, I felt helpless."
+        },
+        {
+          "word": "helplessly",
+          "category": "adverb",
+          "example": "She stared helplessly at the screen."
+        },
+        {
+          "word": "unhelpful",
+          "category": "adjective",
+          "example": "The vague instruction was unhelpful."
+        }
+      ]
+    },
+    {
+      "id": "make",
+      "base": "make",
+      "category": "verb",
+      "definition": "to create or produce something",
+      "example": "Make a list of words you want to learn.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "maker",
+          "category": "noun",
+          "example": "She is the maker of this lesson plan."
+        },
+        {
+          "word": "making",
+          "category": "noun",
+          "example": "The making of a good writer takes time."
+        },
+        {
+          "word": "made",
+          "category": "adjective",
+          "example": "This is a well-made exercise."
+        },
+        {
+          "word": "remake",
+          "category": "verb",
+          "example": "Let's remake this quiz."
+        },
+        {
+          "word": "handmade",
+          "category": "adjective",
+          "example": "I keep a handmade vocabulary notebook."
+        }
+      ]
+    },
+    {
+      "id": "know",
+      "base": "know",
+      "category": "verb",
+      "definition": "to have information or be certain about something",
+      "example": "Do you know the meaning of this word?",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "knowledge",
+          "category": "noun",
+          "example": "Building vocabulary knowledge takes daily effort."
+        },
+        {
+          "word": "knowledgeable",
+          "category": "adjective",
+          "example": "She is knowledgeable about grammar."
+        },
+        {
+          "word": "knowing",
+          "category": "adjective",
+          "example": "He gave a knowing smile."
+        },
+        {
+          "word": "knowingly",
+          "category": "adverb",
+          "example": "She knowingly avoided the difficult question."
+        },
+        {
+          "word": "unknown",
+          "category": "adjective",
+          "example": "Many words are still unknown to me."
+        }
+      ]
+    },
+    {
+      "id": "think",
+      "base": "think",
+      "category": "verb",
+      "definition": "to use the mind to consider something",
+      "example": "Think carefully before you answer.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "thought",
+          "category": "noun",
+          "example": "Share your thoughts on this topic."
+        },
+        {
+          "word": "thinker",
+          "category": "noun",
+          "example": "Critical thinkers question everything."
+        },
+        {
+          "word": "thoughtful",
+          "category": "adjective",
+          "example": "She gave a thoughtful response."
+        },
+        {
+          "word": "thoughtfully",
+          "category": "adverb",
+          "example": "He thoughtfully considered each option."
+        },
+        {
+          "word": "thoughtless",
+          "category": "adjective",
+          "example": "A thoughtless mistake is easy to avoid."
+        },
+        {
+          "word": "thoughtlessly",
+          "category": "adverb",
+          "example": "He answered thoughtlessly and got it wrong."
+        },
+        {
+          "word": "rethink",
+          "category": "verb",
+          "example": "Let's rethink our approach."
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "base": "use",
+      "category": "verb",
+      "definition": "to put something into action or service",
+      "example": "Use a dictionary to check meanings.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "use",
+          "category": "noun",
+          "example": "What is the use of this word?"
+        },
+        {
+          "word": "user",
+          "category": "noun",
+          "example": "The app has many active users."
+        },
+        {
+          "word": "useful",
+          "category": "adjective",
+          "example": "A bilingual dictionary is very useful."
+        },
+        {
+          "word": "usefully",
+          "category": "adverb",
+          "example": "She usefully organised her notes by topic."
+        },
+        {
+          "word": "useless",
+          "category": "adjective",
+          "example": "Memorising without context is useless."
+        },
+        {
+          "word": "uselessly",
+          "category": "adverb",
+          "example": "He uselessly repeated the word."
+        },
+        {
+          "word": "usage",
+          "category": "noun",
+          "example": "Check the usage examples in the dictionary."
+        },
+        {
+          "word": "reuse",
+          "category": "verb",
+          "example": "Reuse new words in your own sentences."
+        }
+      ]
+    },
+    {
+      "id": "learn",
+      "base": "learn",
+      "category": "verb",
+      "definition": "to gain knowledge or skill through study or experience",
+      "example": "Learn five new words every day.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "learner",
+          "category": "noun",
+          "example": "Every learner makes mistakes."
+        },
+        {
+          "word": "learning",
+          "category": "noun",
+          "example": "Learning is a lifelong process."
+        },
+        {
+          "word": "learned",
+          "category": "adjective",
+          "example": "She is a highly learned professor."
+        }
+      ]
+    },
+    {
+      "id": "change",
+      "base": "change",
+      "category": "verb",
+      "definition": "to make or become different",
+      "example": "You can change the way you study.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "change",
+          "category": "noun",
+          "example": "A small change in habit makes a big difference."
+        },
+        {
+          "word": "changeable",
+          "category": "adjective",
+          "example": "The weather is changeable in spring."
+        },
+        {
+          "word": "unchanged",
+          "category": "adjective",
+          "example": "The rule remains unchanged."
+        },
+        {
+          "word": "interchangeable",
+          "category": "adjective",
+          "example": "These two words are not interchangeable."
+        }
+      ]
+    },
+    {
+      "id": "move",
+      "base": "move",
+      "category": "verb",
+      "definition": "to go from one place or position to another",
+      "example": "Move to the next question when ready.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "move",
+          "category": "noun",
+          "example": "That was a smart move."
+        },
+        {
+          "word": "mover",
+          "category": "noun",
+          "example": "She is a key mover in the project."
+        },
+        {
+          "word": "movement",
+          "category": "noun",
+          "example": "There is a movement to simplify spelling rules."
+        },
+        {
+          "word": "movable",
+          "category": "adjective",
+          "example": "The objects are movable."
+        },
+        {
+          "word": "immovable",
+          "category": "adjective",
+          "example": "Some grammar rules seem immovable."
+        },
+        {
+          "word": "remove",
+          "category": "verb",
+          "example": "Remove the incorrect word from the sentence."
+        },
+        {
+          "word": "removal",
+          "category": "noun",
+          "example": "The removal of the error improved the text."
+        }
+      ]
+    },
+    {
+      "id": "follow",
+      "base": "follow",
+      "category": "verb",
+      "definition": "to come after; to obey or copy",
+      "example": "Follow the instructions carefully.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "follower",
+          "category": "noun",
+          "example": "Be a creator, not just a follower."
+        },
+        {
+          "word": "following",
+          "category": "adjective",
+          "example": "Read the following paragraph."
+        },
+        {
+          "word": "following",
+          "category": "noun",
+          "example": "She has a large following of students."
+        }
+      ]
+    },
+    {
+      "id": "write",
+      "base": "write",
+      "category": "verb",
+      "definition": "to mark words or symbols on a surface",
+      "example": "Write a short paragraph every day.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "writer",
+          "category": "noun",
+          "example": "Becoming a good writer takes practice."
+        },
+        {
+          "word": "writing",
+          "category": "noun",
+          "example": "Writing is a powerful skill."
+        },
+        {
+          "word": "written",
+          "category": "adjective",
+          "example": "The written form is different from spoken English."
+        },
+        {
+          "word": "rewrite",
+          "category": "verb",
+          "example": "Rewrite the sentence to fix the error."
+        },
+        {
+          "word": "handwriting",
+          "category": "noun",
+          "example": "His handwriting is clear and neat."
+        }
+      ]
+    },
+    {
+      "id": "give",
+      "base": "give",
+      "category": "verb",
+      "definition": "to hand something to someone; to provide",
+      "example": "Give an example of each word form.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "giver",
+          "category": "noun",
+          "example": "Be a giver of knowledge."
+        },
+        {
+          "word": "given",
+          "category": "adjective",
+          "example": "Write a sentence using the given word."
+        },
+        {
+          "word": "forgive",
+          "category": "verb",
+          "example": "Forgive yourself for making mistakes."
+        },
+        {
+          "word": "forgiveness",
+          "category": "noun",
+          "example": "Forgiveness helps you move forward."
+        },
+        {
+          "word": "gift",
+          "category": "noun",
+          "example": "Language is a gift."
+        }
+      ]
+    },
+    {
+      "id": "take",
+      "base": "take",
+      "category": "verb",
+      "definition": "to get hold of; to carry; to require",
+      "example": "Take notes while you listen.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "taken",
+          "category": "adjective",
+          "example": "The seat is already taken."
+        },
+        {
+          "word": "intake",
+          "category": "noun",
+          "example": "Increase your intake of English reading."
+        },
+        {
+          "word": "undertake",
+          "category": "verb",
+          "example": "Undertake a new language challenge each week."
+        }
+      ]
+    },
+    {
+      "id": "come",
+      "base": "come",
+      "category": "verb",
+      "definition": "to move toward; to arrive",
+      "example": "Come to the next class prepared.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "coming",
+          "category": "adjective",
+          "example": "The coming week will be busy."
+        },
+        {
+          "word": "income",
+          "category": "noun",
+          "example": "Language skills can increase your income."
+        },
+        {
+          "word": "outcome",
+          "category": "noun",
+          "example": "The outcome of the test was positive."
+        },
+        {
+          "word": "become",
+          "category": "verb",
+          "example": "She wants to become fluent in English."
+        },
+        {
+          "word": "overcome",
+          "category": "verb",
+          "example": "You can overcome language barriers."
+        },
+        {
+          "word": "welcome",
+          "category": "verb",
+          "example": "We welcome all learners."
+        },
+        {
+          "word": "welcome",
+          "category": "adjective",
+          "example": "You are very welcome here."
+        }
+      ]
+    },
+    {
+      "id": "get",
+      "base": "get",
+      "category": "verb",
+      "definition": "to receive, obtain, or become",
+      "example": "Get feedback on your writing regularly.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "gotten",
+          "category": "adjective",
+          "example": "The meaning has gotten clearer."
+        },
+        {
+          "word": "forget",
+          "category": "verb",
+          "example": "Don't forget to review new words."
+        },
+        {
+          "word": "forgettable",
+          "category": "adjective",
+          "example": "Words out of context are forgettable."
+        },
+        {
+          "word": "unforgettable",
+          "category": "adjective",
+          "example": "That lesson was unforgettable."
+        }
+      ]
+    },
+    {
+      "id": "go",
+      "base": "go",
+      "category": "verb",
+      "definition": "to move or travel; to leave",
+      "example": "Go through each exercise carefully.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "going",
+          "category": "adjective",
+          "example": "This is a going concern."
+        },
+        {
+          "word": "ongoing",
+          "category": "adjective",
+          "example": "Language learning is an ongoing process."
+        }
+      ]
+    },
+    {
+      "id": "live",
+      "base": "live",
+      "category": "verb",
+      "definition": "to be alive; to reside in a place",
+      "example": "Live the language by speaking every day.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "life",
+          "category": "noun",
+          "example": "Language is central to life."
+        },
+        {
+          "word": "living",
+          "category": "adjective",
+          "example": "English is a living language."
+        },
+        {
+          "word": "living",
+          "category": "noun",
+          "example": "Teaching is her living."
+        },
+        {
+          "word": "alive",
+          "category": "adjective",
+          "example": "Keep your vocabulary alive by using it."
+        },
+        {
+          "word": "lively",
+          "category": "adjective",
+          "example": "The classroom had a lively atmosphere."
+        },
+        {
+          "word": "liveliness",
+          "category": "noun",
+          "example": "Her liveliness made the lesson fun."
+        },
+        {
+          "word": "lifeless",
+          "category": "adjective",
+          "example": "A lifeless essay has no clear ideas."
+        },
+        {
+          "word": "lifetime",
+          "category": "noun",
+          "example": "She spent a lifetime studying languages."
+        }
+      ]
+    },
+    {
+      "id": "want",
+      "base": "want",
+      "category": "verb",
+      "definition": "to wish for or desire something",
+      "example": "I want to improve my speaking skills.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "wanted",
+          "category": "adjective",
+          "example": "These are the most wanted vocabulary words."
+        },
+        {
+          "word": "unwanted",
+          "category": "adjective",
+          "example": "Avoid unwanted grammar errors."
+        }
+      ]
+    },
+    {
+      "id": "need",
+      "base": "need",
+      "category": "verb",
+      "definition": "to require something as essential",
+      "example": "You need practice to improve.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "need",
+          "category": "noun",
+          "example": "There is a need for more practice."
+        },
+        {
+          "word": "needy",
+          "category": "adjective",
+          "example": "Help needy learners in your class."
+        },
+        {
+          "word": "needless",
+          "category": "adjective",
+          "example": "Needless errors can be avoided with review."
+        },
+        {
+          "word": "needlessly",
+          "category": "adverb",
+          "example": "Don't needlessly repeat the same mistakes."
+        }
+      ]
+    },
+    {
+      "id": "find",
+      "base": "find",
+      "category": "verb",
+      "definition": "to discover or locate something",
+      "example": "Find examples in the text.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "finding",
+          "category": "noun",
+          "example": "The study's finding surprised many teachers."
+        },
+        {
+          "word": "found",
+          "category": "adjective",
+          "example": "A found word should be learned in context."
+        }
+      ]
+    },
+    {
+      "id": "show",
+      "base": "show",
+      "category": "verb",
+      "definition": "to make something visible or clear",
+      "example": "Show me your vocabulary notebook.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "show",
+          "category": "noun",
+          "example": "Put on a language show for the class."
+        },
+        {
+          "word": "showing",
+          "category": "noun",
+          "example": "This was a great showing from all students."
+        },
+        {
+          "word": "shown",
+          "category": "adjective",
+          "example": "The shown example was very clear."
+        }
+      ]
+    },
+    {
+      "id": "tell",
+      "base": "tell",
+      "category": "verb",
+      "definition": "to communicate or inform someone",
+      "example": "Tell me a story using these words.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "teller",
+          "category": "noun",
+          "example": "She is a gifted story teller."
+        },
+        {
+          "word": "telling",
+          "category": "adjective",
+          "example": "That was a telling mistake."
+        },
+        {
+          "word": "tellingly",
+          "category": "adverb",
+          "example": "Tellingly, she used every word correctly."
+        }
+      ]
+    },
+    {
+      "id": "ask",
+      "base": "ask",
+      "category": "verb",
+      "definition": "to say something as a question; to request",
+      "example": "Ask your teacher if you are unsure.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "asking",
+          "category": "noun",
+          "example": "The asking of questions is always good."
+        }
+      ]
+    },
+    {
+      "id": "try",
+      "base": "try",
+      "category": "verb",
+      "definition": "to make an effort to do something",
+      "example": "Try to use new words in conversation.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "try",
+          "category": "noun",
+          "example": "Give it a try — you have nothing to lose."
+        },
+        {
+          "word": "trial",
+          "category": "noun",
+          "example": "The first trial run showed some errors."
+        },
+        {
+          "word": "tried",
+          "category": "adjective",
+          "example": "This is a tried and tested method."
+        }
+      ]
+    },
+    {
+      "id": "answer",
+      "base": "answer",
+      "category": "verb",
+      "definition": "to respond to a question or problem",
+      "example": "Answer the questions in full sentences.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "answer",
+          "category": "noun",
+          "example": "Check your answer after each question."
+        },
+        {
+          "word": "answerable",
+          "category": "adjective",
+          "example": "All these questions are answerable."
+        },
+        {
+          "word": "unanswerable",
+          "category": "adjective",
+          "example": "Some philosophical questions seem unanswerable."
+        }
+      ]
+    },
+    {
+      "id": "look",
+      "base": "look",
+      "category": "verb",
+      "definition": "to direct one's eyes to see; to appear",
+      "example": "Look at the example before you start.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "look",
+          "category": "noun",
+          "example": "Have a look at page five."
+        },
+        {
+          "word": "looker",
+          "category": "noun",
+          "example": "He is a careful looker at details."
+        },
+        {
+          "word": "outlook",
+          "category": "noun",
+          "example": "Keep a positive outlook when learning."
+        },
+        {
+          "word": "overlook",
+          "category": "verb",
+          "example": "Don't overlook the suffix rules."
+        }
+      ]
+    },
+    {
+      "id": "mean",
+      "base": "mean",
+      "category": "verb",
+      "definition": "to intend; to signify or denote",
+      "example": "What does this word mean?",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "meaning",
+          "category": "noun",
+          "example": "What is the meaning of this sentence?"
+        },
+        {
+          "word": "meaningful",
+          "category": "adjective",
+          "example": "Write a meaningful paragraph."
+        },
+        {
+          "word": "meaningfully",
+          "category": "adverb",
+          "example": "She used the word meaningfully."
+        },
+        {
+          "word": "meaningless",
+          "category": "adjective",
+          "example": "A sentence without context feels meaningless."
+        },
+        {
+          "word": "mean",
+          "category": "adjective",
+          "example": "That was a mean thing to say."
+        },
+        {
+          "word": "meanly",
+          "category": "adverb",
+          "example": "He meanly corrected her in front of everyone."
+        }
+      ]
+    },
+    {
+      "id": "form",
+      "base": "form",
+      "category": "verb",
+      "definition": "to make or shape; to create",
+      "example": "Form sentences using the words below.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "form",
+          "category": "noun",
+          "example": "Every word has more than one form."
+        },
+        {
+          "word": "formal",
+          "category": "adjective",
+          "example": "Use formal language in job applications."
+        },
+        {
+          "word": "formally",
+          "category": "adverb",
+          "example": "She formally introduced herself."
+        },
+        {
+          "word": "formless",
+          "category": "adjective",
+          "example": "His essay was disorganised and formless."
+        },
+        {
+          "word": "informal",
+          "category": "adjective",
+          "example": "Slang is informal language."
+        },
+        {
+          "word": "informally",
+          "category": "adverb",
+          "example": "We spoke informally during the break."
+        },
+        {
+          "word": "reform",
+          "category": "verb",
+          "example": "Reform your writing habits gradually."
+        },
+        {
+          "word": "reform",
+          "category": "noun",
+          "example": "Education reform improves outcomes."
+        },
+        {
+          "word": "transform",
+          "category": "verb",
+          "example": "Learning transforms the way you think."
+        },
+        {
+          "word": "transformation",
+          "category": "noun",
+          "example": "Word transformation is the focus of this app."
+        }
+      ]
+    },
+    {
+      "id": "act",
+      "base": "act",
+      "category": "verb",
+      "definition": "to do something; to perform a role",
+      "example": "Act on what you learn right away.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "act",
+          "category": "noun",
+          "example": "Every act of practice matters."
+        },
+        {
+          "word": "actor",
+          "category": "noun",
+          "example": "Watching actors helps you learn pronunciation."
+        },
+        {
+          "word": "action",
+          "category": "noun",
+          "example": "Take action to improve your English."
+        },
+        {
+          "word": "active",
+          "category": "adjective",
+          "example": "Be an active learner."
+        },
+        {
+          "word": "actively",
+          "category": "adverb",
+          "example": "Actively engage with every exercise."
+        },
+        {
+          "word": "activity",
+          "category": "noun",
+          "example": "Each activity builds a skill."
+        },
+        {
+          "word": "inactive",
+          "category": "adjective",
+          "example": "Avoid an inactive approach to learning."
+        },
+        {
+          "word": "interact",
+          "category": "verb",
+          "example": "Interact with native speakers when possible."
+        },
+        {
+          "word": "interaction",
+          "category": "noun",
+          "example": "Interaction helps develop fluency."
+        },
+        {
+          "word": "react",
+          "category": "verb",
+          "example": "React to what you read, not just memorise it."
+        },
+        {
+          "word": "reaction",
+          "category": "noun",
+          "example": "What was your reaction to the text?"
+        }
+      ]
+    },
+    {
+      "id": "create",
+      "base": "create",
+      "category": "verb",
+      "definition": "to produce something new",
+      "example": "Create your own example sentences.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "creator",
+          "category": "noun",
+          "example": "Be a creator of language, not just a consumer."
+        },
+        {
+          "word": "creation",
+          "category": "noun",
+          "example": "Writing is the creation of ideas."
+        },
+        {
+          "word": "creative",
+          "category": "adjective",
+          "example": "Use creative writing to practise vocabulary."
+        },
+        {
+          "word": "creatively",
+          "category": "adverb",
+          "example": "She used the word creatively."
+        },
+        {
+          "word": "creativity",
+          "category": "noun",
+          "example": "Language learning encourages creativity."
+        },
+        {
+          "word": "recreate",
+          "category": "verb",
+          "example": "Recreate the story in your own words."
+        }
+      ]
+    },
+    {
+      "id": "inform",
+      "base": "inform",
+      "category": "verb",
+      "definition": "to give someone facts or information",
+      "example": "Inform the class about what you learned.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "information",
+          "category": "noun",
+          "example": "Use information from the text to answer."
+        },
+        {
+          "word": "informative",
+          "category": "adjective",
+          "example": "That was a very informative lesson."
+        },
+        {
+          "word": "informatively",
+          "category": "adverb",
+          "example": "She spoke informatively about grammar."
+        },
+        {
+          "word": "informed",
+          "category": "adjective",
+          "example": "An informed learner makes better choices."
+        },
+        {
+          "word": "uninformed",
+          "category": "adjective",
+          "example": "An uninformed guess is rarely correct."
+        }
+      ]
+    },
+    {
+      "id": "educate",
+      "base": "educate",
+      "category": "verb",
+      "definition": "to teach or train someone",
+      "example": "This app educates learners about word forms.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "education",
+          "category": "noun",
+          "example": "Education is a lifelong journey."
+        },
+        {
+          "word": "educator",
+          "category": "noun",
+          "example": "Every great educator inspires curiosity."
+        },
+        {
+          "word": "educational",
+          "category": "adjective",
+          "example": "This is a very educational resource."
+        },
+        {
+          "word": "educationally",
+          "category": "adverb",
+          "example": "The trip was educationally valuable."
+        },
+        {
+          "word": "educated",
+          "category": "adjective",
+          "example": "Make an educated guess."
+        }
+      ]
+    },
+    {
+      "id": "prepare",
+      "base": "prepare",
+      "category": "verb",
+      "definition": "to make ready in advance",
+      "example": "Prepare a vocabulary list before class.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "preparation",
+          "category": "noun",
+          "example": "Good preparation leads to good results."
+        },
+        {
+          "word": "prepared",
+          "category": "adjective",
+          "example": "Come to class prepared."
+        },
+        {
+          "word": "preparatory",
+          "category": "adjective",
+          "example": "Do the preparatory exercises first."
+        },
+        {
+          "word": "unprepared",
+          "category": "adjective",
+          "example": "Don't be unprepared for the quiz."
+        }
+      ]
+    },
+    {
+      "id": "agree",
+      "base": "agree",
+      "category": "verb",
+      "definition": "to have the same opinion; to accept a request",
+      "example": "I agree that vocabulary is essential.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "agreement",
+          "category": "noun",
+          "example": "Subject-verb agreement is a key grammar rule."
+        },
+        {
+          "word": "agreeable",
+          "category": "adjective",
+          "example": "An agreeable atmosphere helps learning."
+        },
+        {
+          "word": "agreeably",
+          "category": "adverb",
+          "example": "She agreeably accepted the correction."
+        },
+        {
+          "word": "disagree",
+          "category": "verb",
+          "example": "It is fine to disagree politely."
+        },
+        {
+          "word": "disagreement",
+          "category": "noun",
+          "example": "We had a small disagreement about the meaning."
+        }
+      ]
+    },
+    {
+      "id": "produce",
+      "base": "produce",
+      "category": "verb",
+      "definition": "to make or create; to bring about a result",
+      "example": "Produce a short essay using new vocabulary.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "producer",
+          "category": "noun",
+          "example": "Be a producer of language output."
+        },
+        {
+          "word": "production",
+          "category": "noun",
+          "example": "Language production improves with practice."
+        },
+        {
+          "word": "productive",
+          "category": "adjective",
+          "example": "A productive study session builds fluency."
+        },
+        {
+          "word": "productively",
+          "category": "adverb",
+          "example": "Study productively for short periods."
+        },
+        {
+          "word": "productivity",
+          "category": "noun",
+          "example": "Good habits improve learning productivity."
+        },
+        {
+          "word": "product",
+          "category": "noun",
+          "example": "Your writing is the product of your study."
+        }
+      ]
+    },
+    {
+      "id": "decide",
+      "base": "decide",
+      "category": "verb",
+      "definition": "to make a choice or come to a conclusion",
+      "example": "Decide which meaning fits the sentence.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "decision",
+          "category": "noun",
+          "example": "Make a careful decision before you answer."
+        },
+        {
+          "word": "decisive",
+          "category": "adjective",
+          "example": "Be decisive when choosing your answer."
+        },
+        {
+          "word": "decisively",
+          "category": "adverb",
+          "example": "She answered decisively and correctly."
+        },
+        {
+          "word": "indecisive",
+          "category": "adjective",
+          "example": "Don't be indecisive — trust your knowledge."
+        }
+      ]
+    },
+    {
+      "id": "suggest",
+      "base": "suggest",
+      "category": "verb",
+      "definition": "to put forward an idea for consideration",
+      "example": "Can you suggest a better word here?",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "suggestion",
+          "category": "noun",
+          "example": "Your suggestion improved the sentence."
+        },
+        {
+          "word": "suggestive",
+          "category": "adjective",
+          "example": "The word carries a suggestive tone."
+        }
+      ]
+    },
+    {
+      "id": "support",
+      "base": "support",
+      "category": "verb",
+      "definition": "to help; to confirm or back up an idea",
+      "example": "Support your opinion with examples.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "support",
+          "category": "noun",
+          "example": "Peer support helps motivation."
+        },
+        {
+          "word": "supporter",
+          "category": "noun",
+          "example": "She is a strong supporter of active learning."
+        },
+        {
+          "word": "supportive",
+          "category": "adjective",
+          "example": "A supportive teacher builds confidence."
+        },
+        {
+          "word": "supportively",
+          "category": "adverb",
+          "example": "She supportively corrected each error."
+        }
+      ]
+    },
+    {
+      "id": "interest",
+      "base": "interest",
+      "category": "noun",
+      "definition": "a feeling of wanting to know or learn more about something",
+      "example": "Show an interest in the language around you.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "interest",
+          "category": "verb",
+          "example": "This topic interests me a lot."
+        },
+        {
+          "word": "interesting",
+          "category": "adjective",
+          "example": "The article was very interesting."
+        },
+        {
+          "word": "interestingly",
+          "category": "adverb",
+          "example": "Interestingly, the word has two meanings."
+        },
+        {
+          "word": "interested",
+          "category": "adjective",
+          "example": "She is interested in English grammar."
+        },
+        {
+          "word": "uninteresting",
+          "category": "adjective",
+          "example": "An uninteresting text is hard to read."
+        }
+      ]
+    },
+    {
+      "id": "beauty",
+      "base": "beauty",
+      "category": "noun",
+      "definition": "the quality of being pleasing to the senses",
+      "example": "The beauty of language is its flexibility.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "beautiful",
+          "category": "adjective",
+          "example": "English has many beautiful words."
+        },
+        {
+          "word": "beautifully",
+          "category": "adverb",
+          "example": "She writes beautifully."
+        },
+        {
+          "word": "beautify",
+          "category": "verb",
+          "example": "Good vocabulary beautifies your writing."
+        }
+      ]
+    },
+    {
+      "id": "care",
+      "base": "care",
+      "category": "noun",
+      "definition": "attention and effort; looking after something or someone",
+      "example": "Take care with your spelling.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "care",
+          "category": "verb",
+          "example": "She cares about her students' progress."
+        },
+        {
+          "word": "careful",
+          "category": "adjective",
+          "example": "Be careful when you choose a word."
+        },
+        {
+          "word": "carefully",
+          "category": "adverb",
+          "example": "Read the question carefully."
+        },
+        {
+          "word": "careless",
+          "category": "adjective",
+          "example": "Careless errors are easy to fix."
+        },
+        {
+          "word": "carelessly",
+          "category": "adverb",
+          "example": "He answered carelessly and lost points."
+        },
+        {
+          "word": "caring",
+          "category": "adjective",
+          "example": "She is a caring and patient teacher."
+        },
+        {
+          "word": "carefree",
+          "category": "adjective",
+          "example": "A carefree attitude helps reduce anxiety."
+        }
+      ]
+    },
+    {
+      "id": "hope",
+      "base": "hope",
+      "category": "noun",
+      "definition": "a feeling that something desired may happen",
+      "example": "There is hope for every learner.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "hope",
+          "category": "verb",
+          "example": "I hope you enjoy this lesson."
+        },
+        {
+          "word": "hopeful",
+          "category": "adjective",
+          "example": "Be hopeful — progress comes with practice."
+        },
+        {
+          "word": "hopefully",
+          "category": "adverb",
+          "example": "Hopefully, this exercise helps."
+        },
+        {
+          "word": "hopeless",
+          "category": "adjective",
+          "example": "No learner is hopeless with the right support."
+        },
+        {
+          "word": "hopelessly",
+          "category": "adverb",
+          "example": "He was not hopelessly confused — just needs time."
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "base": "power",
+      "category": "noun",
+      "definition": "the ability to do something; control or energy",
+      "example": "Language gives you the power to connect.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "power",
+          "category": "verb",
+          "example": "Good grammar powers strong communication."
+        },
+        {
+          "word": "powerful",
+          "category": "adjective",
+          "example": "A powerful vocabulary changes your voice."
+        },
+        {
+          "word": "powerfully",
+          "category": "adverb",
+          "example": "She spoke powerfully and clearly."
+        },
+        {
+          "word": "powerless",
+          "category": "adjective",
+          "example": "Without words, we feel powerless."
+        },
+        {
+          "word": "empower",
+          "category": "verb",
+          "example": "This app will empower you as a learner."
+        },
+        {
+          "word": "empowerment",
+          "category": "noun",
+          "example": "Education brings empowerment."
+        }
+      ]
+    },
+    {
+      "id": "kind",
+      "base": "kind",
+      "category": "adjective",
+      "definition": "friendly, generous, and considerate",
+      "example": "Be kind to yourself when you make errors.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "kind",
+          "category": "noun",
+          "example": "What kind of learner are you?"
+        },
+        {
+          "word": "kindly",
+          "category": "adverb",
+          "example": "She kindly explained the rule again."
+        },
+        {
+          "word": "kindly",
+          "category": "adjective",
+          "example": "He gave a kindly smile."
+        },
+        {
+          "word": "kindness",
+          "category": "noun",
+          "example": "Kindness in the classroom builds trust."
+        },
+        {
+          "word": "unkind",
+          "category": "adjective",
+          "example": "Don't be unkind to yourself after a mistake."
+        },
+        {
+          "word": "unkindly",
+          "category": "adverb",
+          "example": "She did not mean to correct unkindly."
+        }
+      ]
+    },
+    {
+      "id": "peace",
+      "base": "peace",
+      "category": "noun",
+      "definition": "a state of calm; freedom from conflict",
+      "example": "Find peace in your daily study routine.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "peaceful",
+          "category": "adjective",
+          "example": "A peaceful environment helps concentration."
+        },
+        {
+          "word": "peacefully",
+          "category": "adverb",
+          "example": "Study peacefully without distractions."
+        },
+        {
+          "word": "peacefulness",
+          "category": "noun",
+          "example": "The peacefulness of the library helped her focus."
+        }
+      ]
+    },
+    {
+      "id": "danger",
+      "base": "danger",
+      "category": "noun",
+      "definition": "the possibility of harm or something unpleasant happening",
+      "example": "The danger of not reviewing is forgetting.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "dangerous",
+          "category": "adjective",
+          "example": "It is dangerous to memorise without context."
+        },
+        {
+          "word": "dangerously",
+          "category": "adverb",
+          "example": "He dangerously overloaded his study schedule."
+        },
+        {
+          "word": "endanger",
+          "category": "verb",
+          "example": "Stress can endanger your progress."
+        }
+      ]
+    },
+    {
+      "id": "success",
+      "base": "success",
+      "category": "noun",
+      "definition": "achieving a goal or desired outcome",
+      "example": "Consistent practice leads to success.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "succeed",
+          "category": "verb",
+          "example": "You will succeed if you practise daily."
+        },
+        {
+          "word": "successful",
+          "category": "adjective",
+          "example": "She became a successful language teacher."
+        },
+        {
+          "word": "successfully",
+          "category": "adverb",
+          "example": "He successfully completed the course."
+        },
+        {
+          "word": "unsuccessful",
+          "category": "adjective",
+          "example": "The first attempt was unsuccessful, but she tried again."
+        }
+      ]
+    },
+    {
+      "id": "friend",
+      "base": "friend",
+      "category": "noun",
+      "definition": "a person you know well and care about",
+      "example": "Find a language learning friend to practise with.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "friendly",
+          "category": "adjective",
+          "example": "The teacher created a friendly classroom."
+        },
+        {
+          "word": "friendship",
+          "category": "noun",
+          "example": "Friendship is built on communication."
+        },
+        {
+          "word": "friendliness",
+          "category": "noun",
+          "example": "Her friendliness made everyone comfortable."
+        },
+        {
+          "word": "unfriendly",
+          "category": "adjective",
+          "example": "An unfriendly tone discourages participation."
+        },
+        {
+          "word": "befriend",
+          "category": "verb",
+          "example": "Befriend native speakers to improve faster."
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "base": "health",
+      "category": "noun",
+      "definition": "the state of being free from illness; general wellbeing",
+      "example": "Mental health affects how well you learn.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "healthy",
+          "category": "adjective",
+          "example": "Healthy habits improve learning performance."
+        },
+        {
+          "word": "unhealthy",
+          "category": "adjective",
+          "example": "An unhealthy routine leads to fatigue."
+        },
+        {
+          "word": "healthily",
+          "category": "adverb",
+          "example": "She eats and studies healthily."
+        }
+      ]
+    },
+    {
+      "id": "nation",
+      "base": "nation",
+      "category": "noun",
+      "definition": "a country with its people, culture, and government",
+      "example": "English connects people across every nation.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "national",
+          "category": "adjective",
+          "example": "English is their national language."
+        },
+        {
+          "word": "nationally",
+          "category": "adverb",
+          "example": "The exam is offered nationally."
+        },
+        {
+          "word": "nationality",
+          "category": "noun",
+          "example": "Students of every nationality use this app."
+        },
+        {
+          "word": "international",
+          "category": "adjective",
+          "example": "English is an international language."
+        },
+        {
+          "word": "internationally",
+          "category": "adverb",
+          "example": "She works internationally as a translator."
+        }
+      ]
+    },
+    {
+      "id": "real",
+      "base": "real",
+      "category": "adjective",
+      "definition": "actually existing; not imagined or artificial",
+      "example": "Make real progress by speaking every day.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "really",
+          "category": "adverb",
+          "example": "I really want to improve my fluency."
+        },
+        {
+          "word": "reality",
+          "category": "noun",
+          "example": "The reality is that practice takes time."
+        },
+        {
+          "word": "realize",
+          "category": "verb",
+          "example": "You will realize your potential."
+        },
+        {
+          "word": "realistic",
+          "category": "adjective",
+          "example": "Set realistic learning goals."
+        },
+        {
+          "word": "realistically",
+          "category": "adverb",
+          "example": "Realistically, fluency takes months of effort."
+        },
+        {
+          "word": "unreal",
+          "category": "adjective",
+          "example": "Your progress will feel unreal!"
+        }
+      ]
+    },
+    {
+      "id": "happy",
+      "base": "happy",
+      "category": "adjective",
+      "definition": "feeling or causing pleasure or satisfaction",
+      "example": "Be happy about every small improvement.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "happily",
+          "category": "adverb",
+          "example": "She happily corrected her own mistakes."
+        },
+        {
+          "word": "happiness",
+          "category": "noun",
+          "example": "Learning brings happiness."
+        },
+        {
+          "word": "unhappy",
+          "category": "adjective",
+          "example": "Don't be unhappy after a bad score."
+        },
+        {
+          "word": "unhappily",
+          "category": "adverb",
+          "example": "He unhappily admitted the error."
+        }
+      ]
+    },
+    {
+      "id": "strong",
+      "base": "strong",
+      "category": "adjective",
+      "definition": "having great physical or mental power",
+      "example": "Build a strong vocabulary over time.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "strongly",
+          "category": "adverb",
+          "example": "I strongly recommend daily reading."
+        },
+        {
+          "word": "strength",
+          "category": "noun",
+          "example": "Her strength is listening comprehension."
+        },
+        {
+          "word": "strengthen",
+          "category": "verb",
+          "example": "Strengthen your grammar with extra exercises."
+        },
+        {
+          "word": "stronger",
+          "category": "adjective",
+          "example": "She becomes stronger with each lesson."
+        }
+      ]
+    },
+    {
+      "id": "free",
+      "base": "free",
+      "category": "adjective",
+      "definition": "not restricted; without cost",
+      "example": "This app is free to use.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "free",
+          "category": "verb",
+          "example": "Free yourself from fear of mistakes."
+        },
+        {
+          "word": "free",
+          "category": "adverb",
+          "example": "You can download it free."
+        },
+        {
+          "word": "freely",
+          "category": "adverb",
+          "example": "Speak freely and do not worry about errors."
+        },
+        {
+          "word": "freedom",
+          "category": "noun",
+          "example": "Language gives you freedom of expression."
+        }
+      ]
+    },
+    {
+      "id": "clear",
+      "base": "clear",
+      "category": "adjective",
+      "definition": "easy to see, hear, or understand",
+      "example": "Give a clear and direct answer.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "clear",
+          "category": "verb",
+          "example": "Clear your mind before starting the quiz."
+        },
+        {
+          "word": "clearly",
+          "category": "adverb",
+          "example": "Express your ideas clearly."
+        },
+        {
+          "word": "clarity",
+          "category": "noun",
+          "example": "Good grammar gives your writing clarity."
+        },
+        {
+          "word": "clarify",
+          "category": "verb",
+          "example": "Clarify the meaning before moving on."
+        },
+        {
+          "word": "unclear",
+          "category": "adjective",
+          "example": "If the question is unclear, ask for help."
+        }
+      ]
+    },
+    {
+      "id": "good",
+      "base": "good",
+      "category": "adjective",
+      "definition": "having positive qualities; well done",
+      "example": "A good habit leads to good results.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "well",
+          "category": "adverb",
+          "example": "She speaks English very well."
+        },
+        {
+          "word": "goodness",
+          "category": "noun",
+          "example": "There is goodness in every effort."
+        },
+        {
+          "word": "better",
+          "category": "adjective",
+          "example": "Your writing is better than before."
+        },
+        {
+          "word": "best",
+          "category": "adjective",
+          "example": "Give your best effort every time."
+        },
+        {
+          "word": "better",
+          "category": "adverb",
+          "example": "You can do better with practice."
+        },
+        {
+          "word": "best",
+          "category": "adverb",
+          "example": "She performs best in the morning."
+        }
+      ]
+    },
+    {
+      "id": "new",
+      "base": "new",
+      "category": "adjective",
+      "definition": "recently created; not known before",
+      "example": "Learn new words every day.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "newly",
+          "category": "adverb",
+          "example": "She is a newly qualified teacher."
+        },
+        {
+          "word": "newness",
+          "category": "noun",
+          "example": "The newness of the language is exciting."
+        },
+        {
+          "word": "news",
+          "category": "noun",
+          "example": "Read the news to improve your reading."
+        },
+        {
+          "word": "renew",
+          "category": "verb",
+          "example": "Renew your commitment to learning today."
+        },
+        {
+          "word": "renewal",
+          "category": "noun",
+          "example": "The renewal of vocabulary happens through use."
+        }
+      ]
+    },
+    {
+      "id": "right",
+      "base": "right",
+      "category": "adjective",
+      "definition": "correct; morally good; on the right side",
+      "example": "Check that your answer is right.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "right",
+          "category": "noun",
+          "example": "You have the right to make mistakes."
+        },
+        {
+          "word": "right",
+          "category": "adverb",
+          "example": "She got it right on the first try."
+        },
+        {
+          "word": "rightly",
+          "category": "adverb",
+          "example": "She rightly pointed out the spelling error."
+        },
+        {
+          "word": "rightness",
+          "category": "noun",
+          "example": "The rightness of the sentence depends on context."
+        },
+        {
+          "word": "righteous",
+          "category": "adjective",
+          "example": "A righteous effort always leads somewhere."
+        },
+        {
+          "word": "righteously",
+          "category": "adverb",
+          "example": "He righteously defended his answer."
+        }
+      ]
+    },
+    {
+      "id": "long",
+      "base": "long",
+      "category": "adjective",
+      "definition": "measuring a great distance or duration",
+      "example": "It takes a long time to become fluent.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "long",
+          "category": "adverb",
+          "example": "How long have you been studying English?"
+        },
+        {
+          "word": "longer",
+          "category": "adjective",
+          "example": "This essay is longer than the previous one."
+        },
+        {
+          "word": "length",
+          "category": "noun",
+          "example": "Vary the length of your sentences."
+        },
+        {
+          "word": "lengthen",
+          "category": "verb",
+          "example": "Lengthen your answers for more detail."
+        },
+        {
+          "word": "lengthy",
+          "category": "adjective",
+          "example": "Avoid lengthy and unclear sentences."
+        },
+        {
+          "word": "lengthily",
+          "category": "adverb",
+          "example": "He wrote lengthily but said very little."
+        }
+      ]
+    },
+    {
+      "id": "different",
+      "base": "different",
+      "category": "adjective",
+      "definition": "not the same as another; unlike",
+      "example": "Each word family is different.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "differently",
+          "category": "adverb",
+          "example": "Everyone learns differently."
+        },
+        {
+          "word": "difference",
+          "category": "noun",
+          "example": "Notice the difference between the word forms."
+        },
+        {
+          "word": "differ",
+          "category": "verb",
+          "example": "British and American spellings differ."
+        }
+      ]
+    },
+    {
+      "id": "easy",
+      "base": "easy",
+      "category": "adjective",
+      "definition": "not difficult; achieved without much effort",
+      "example": "Grammar becomes easy with practice.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "easily",
+          "category": "adverb",
+          "example": "She easily remembered all the word forms."
+        },
+        {
+          "word": "ease",
+          "category": "noun",
+          "example": "Answer with ease after enough practice."
+        },
+        {
+          "word": "ease",
+          "category": "verb",
+          "example": "Practice will ease your anxiety."
+        },
+        {
+          "word": "uneasy",
+          "category": "adjective",
+          "example": "He felt uneasy during the first quiz."
+        },
+        {
+          "word": "uneasily",
+          "category": "adverb",
+          "example": "She uneasily chose her answer."
+        },
+        {
+          "word": "easier",
+          "category": "adjective",
+          "example": "It gets easier every week."
+        }
+      ]
+    },
+    {
+      "id": "young",
+      "base": "young",
+      "category": "adjective",
+      "definition": "not old; early in life or development",
+      "example": "Young learners pick up languages quickly.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "younger",
+          "category": "adjective",
+          "example": "Younger students tend to have less fear."
+        },
+        {
+          "word": "youth",
+          "category": "noun",
+          "example": "Youth is not a requirement for language learning."
+        },
+        {
+          "word": "youthful",
+          "category": "adjective",
+          "example": "Keep a youthful curiosity about language."
+        },
+        {
+          "word": "youthfully",
+          "category": "adverb",
+          "example": "She approached the challenge youthfully."
+        }
+      ]
+    },
+    {
+      "id": "great",
+      "base": "great",
+      "category": "adjective",
+      "definition": "large in size, amount, or importance; excellent",
+      "example": "You are doing a great job.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "greatly",
+          "category": "adverb",
+          "example": "Reading greatly improves vocabulary."
+        },
+        {
+          "word": "greatness",
+          "category": "noun",
+          "example": "Work toward greatness every day."
+        }
+      ]
+    },
+    {
+      "id": "old",
+      "base": "old",
+      "category": "adjective",
+      "definition": "having lived or existed for a long time",
+      "example": "Even old words have new uses.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "older",
+          "category": "adjective",
+          "example": "Older learners have more life experience."
+        },
+        {
+          "word": "oldest",
+          "category": "adjective",
+          "example": "It is one of the oldest words in English."
+        },
+        {
+          "word": "elderly",
+          "category": "adjective",
+          "example": "Elderly learners are often very motivated."
+        }
+      ]
+    },
+    {
+      "id": "high",
+      "base": "high",
+      "category": "adjective",
+      "definition": "at a great distance above; above average in level",
+      "example": "Aim for a high score in the quiz.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "high",
+          "category": "adverb",
+          "example": "She scored high on the vocabulary test."
+        },
+        {
+          "word": "highly",
+          "category": "adverb",
+          "example": "She is highly motivated."
+        },
+        {
+          "word": "height",
+          "category": "noun",
+          "example": "Reach the height of your potential."
+        },
+        {
+          "word": "heighten",
+          "category": "verb",
+          "example": "Reading heightens your awareness of language."
+        },
+        {
+          "word": "higher",
+          "category": "adjective",
+          "example": "Aim for higher accuracy."
+        }
+      ]
+    },
+    {
+      "id": "not",
+      "base": "not",
+      "category": "adverb",
+      "definition": "used to make a verb or sentence negative",
+      "example": "I do not know that word yet.",
+      "pool": 2,
+      "transformations": []
+    },
+    {
+      "id": "with",
+      "base": "with",
+      "category": "preposition",
+      "definition": "accompanied by; in connection to",
+      "example": "Study with a partner for more practice.",
+      "pool": 2,
+      "transformations": []
+    },
+    {
+      "id": "about",
+      "base": "about",
+      "category": "preposition",
+      "definition": "concerning; approximately",
+      "example": "Think about the meaning before answering.",
+      "pool": 2,
+      "transformations": []
+    },
+    {
+      "id": "after",
+      "base": "after",
+      "category": "preposition",
+      "definition": "following in time or order",
+      "example": "Review your notes after each lesson.",
+      "pool": 2,
+      "transformations": []
+    },
+    {
+      "id": "before",
+      "base": "before",
+      "category": "preposition",
+      "definition": "earlier than; in front of",
+      "example": "Read the rule before doing the exercise.",
+      "pool": 2,
+      "transformations": []
+    },
+    {
+      "id": "also",
+      "base": "also",
+      "category": "adverb",
+      "definition": "in addition; too",
+      "example": "Also try to speak English outside class.",
+      "pool": 2,
+      "transformations": []
+    },
+    {
+      "id": "just",
+      "base": "just",
+      "category": "adverb",
+      "definition": "exactly; very recently; only",
+      "example": "I just learned this word today.",
+      "pool": 2,
+      "transformations": []
+    },
+    {
+      "id": "very",
+      "base": "very",
+      "category": "adverb",
+      "definition": "used to emphasise an adjective or adverb",
+      "example": "This exercise is very useful.",
+      "pool": 2,
+      "transformations": []
+    },
+    {
+      "id": "well",
+      "base": "well",
+      "category": "adverb",
+      "definition": "in a good or satisfactory way",
+      "example": "She reads very well.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "well",
+          "category": "adjective",
+          "example": "I feel well today — ready to study!"
+        },
+        {
+          "word": "wellness",
+          "category": "noun",
+          "example": "Wellness supports good learning."
+        }
+      ]
+    },
+    {
+      "id": "still",
+      "base": "still",
+      "category": "adverb",
+      "definition": "continuing up to now; without movement",
+      "example": "I still make spelling mistakes sometimes.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "still",
+          "category": "adjective",
+          "example": "Stay still and concentrate."
+        },
+        {
+          "word": "stillness",
+          "category": "noun",
+          "example": "Stillness helps you focus."
+        }
+      ]
+    },
+    {
+      "id": "place",
+      "base": "place",
+      "category": "noun",
+      "definition": "a particular position or location",
+      "example": "Find a quiet place to study.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "place",
+          "category": "verb",
+          "example": "Place the verb after the subject."
+        },
+        {
+          "word": "placement",
+          "category": "noun",
+          "example": "Word placement affects meaning."
+        },
+        {
+          "word": "replace",
+          "category": "verb",
+          "example": "Replace the underlined word with a synonym."
+        },
+        {
+          "word": "replacement",
+          "category": "noun",
+          "example": "Choose a replacement that fits the context."
+        },
+        {
+          "word": "misplace",
+          "category": "verb",
+          "example": "Don't misplace the adjective in the sentence."
+        }
+      ]
+    },
+    {
+      "id": "number",
+      "base": "number",
+      "category": "noun",
+      "definition": "a mathematical value; a quantity",
+      "example": "The number of words you know grows daily.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "number",
+          "category": "verb",
+          "example": "Number the sentences in order."
+        },
+        {
+          "word": "numerous",
+          "category": "adjective",
+          "example": "There are numerous ways to practise."
+        },
+        {
+          "word": "numerously",
+          "category": "adverb",
+          "example": "The error appears numerously in the text."
+        },
+        {
+          "word": "numeral",
+          "category": "noun",
+          "example": "Write the numeral in words."
+        }
+      ]
+    },
+    {
+      "id": "point",
+      "base": "point",
+      "category": "noun",
+      "definition": "a specific location, idea, or score in a game",
+      "example": "Score a point for each correct answer.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "point",
+          "category": "verb",
+          "example": "Can you point to the error in this sentence?"
+        },
+        {
+          "word": "pointed",
+          "category": "adjective",
+          "example": "Her feedback was pointed and helpful."
+        },
+        {
+          "word": "pointless",
+          "category": "adjective",
+          "example": "Memorising without practice is pointless."
+        },
+        {
+          "word": "pointlessly",
+          "category": "adverb",
+          "example": "He pointlessly repeated the same mistake."
+        }
+      ]
+    },
+    {
+      "id": "name",
+      "base": "name",
+      "category": "noun",
+      "definition": "a word by which a person or thing is known",
+      "example": "Write your name at the top of the page.",
+      "pool": 2,
+      "transformations": [
+        {
+          "word": "name",
+          "category": "verb",
+          "example": "Can you name all seven categories?"
+        },
+        {
+          "word": "named",
+          "category": "adjective",
+          "example": "The word named above is a noun."
+        },
+        {
+          "word": "nameless",
+          "category": "adjective",
+          "example": "Some feelings are nameless."
+        },
+        {
+          "word": "rename",
+          "category": "verb",
+          "example": "Let's rename the file for clarity."
+        }
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "rule": "-tion / -sion",
+      "description": "Verb → Noun: turns verbs into nouns expressing a process or result",
+      "examples": [
+        {
+          "from": "create",
+          "to": "creation"
+        },
+        {
+          "from": "act",
+          "to": "action"
+        },
+        {
+          "from": "transform",
+          "to": "transformation"
+        },
+        {
+          "from": "inform",
+          "to": "information"
+        },
+        {
+          "from": "decide",
+          "to": "decision"
+        }
+      ]
+    },
+    {
+      "rule": "-ness",
+      "description": "Adjective → Noun: forms abstract nouns from adjectives",
+      "examples": [
+        {
+          "from": "kind",
+          "to": "kindness"
+        },
+        {
+          "from": "happy",
+          "to": "happiness"
+        },
+        {
+          "from": "dark",
+          "to": "darkness"
+        },
+        {
+          "from": "good",
+          "to": "goodness"
+        },
+        {
+          "from": "strong",
+          "to": "strength"
+        }
+      ]
+    },
+    {
+      "rule": "-ly",
+      "description": "Adjective → Adverb: creates adverbs to describe how something is done",
+      "examples": [
+        {
+          "from": "clear",
+          "to": "clearly"
+        },
+        {
+          "from": "beautiful",
+          "to": "beautifully"
+        },
+        {
+          "from": "hopeful",
+          "to": "hopefully"
+        },
+        {
+          "from": "strong",
+          "to": "strongly"
+        },
+        {
+          "from": "real",
+          "to": "really"
+        }
+      ]
+    },
+    {
+      "rule": "-ful",
+      "description": "Noun/Verb → Adjective: means 'full of' or 'having the quality of'",
+      "examples": [
+        {
+          "from": "hope",
+          "to": "hopeful"
+        },
+        {
+          "from": "care",
+          "to": "careful"
+        },
+        {
+          "from": "help",
+          "to": "helpful"
+        },
+        {
+          "from": "peace",
+          "to": "peaceful"
+        },
+        {
+          "from": "thought",
+          "to": "thoughtful"
+        }
+      ]
+    },
+    {
+      "rule": "-er / -or",
+      "description": "Verb → Noun: creates agent nouns — a person or thing that does the action",
+      "examples": [
+        {
+          "from": "teach",
+          "to": "teacher"
+        },
+        {
+          "from": "create",
+          "to": "creator"
+        },
+        {
+          "from": "learn",
+          "to": "learner"
+        },
+        {
+          "from": "help",
+          "to": "helper"
+        },
+        {
+          "from": "act",
+          "to": "actor"
+        }
+      ]
+    },
+    {
+      "rule": "-less",
+      "description": "Noun/Verb → Adjective: means 'without' the quality of the root word",
+      "examples": [
+        {
+          "from": "hope",
+          "to": "hopeless"
+        },
+        {
+          "from": "help",
+          "to": "helpless"
+        },
+        {
+          "from": "power",
+          "to": "powerless"
+        },
+        {
+          "from": "point",
+          "to": "pointless"
+        },
+        {
+          "from": "care",
+          "to": "careless"
+        }
+      ]
+    },
+    {
+      "rule": "-ment",
+      "description": "Verb → Noun: indicates the result or process of the action",
+      "examples": [
+        {
+          "from": "develop",
+          "to": "development"
+        },
+        {
+          "from": "move",
+          "to": "movement"
+        },
+        {
+          "from": "agree",
+          "to": "agreement"
+        },
+        {
+          "from": "place",
+          "to": "placement"
+        },
+        {
+          "from": "empower",
+          "to": "empowerment"
+        }
+      ]
+    },
+    {
+      "rule": "un-",
+      "description": "Adjective/Verb → Opposite: adds a negative or reversing meaning",
+      "examples": [
+        {
+          "from": "happy",
+          "to": "unhappy"
+        },
+        {
+          "from": "kind",
+          "to": "unkind"
+        },
+        {
+          "from": "known",
+          "to": "unknown"
+        },
+        {
+          "from": "helpful",
+          "to": "unhelpful"
+        },
+        {
+          "from": "prepared",
+          "to": "unprepared"
+        }
+      ]
+    },
+    {
+      "rule": "re-",
+      "description": "Verb → Verb: means to do the action again",
+      "examples": [
+        {
+          "from": "read",
+          "to": "reread"
+        },
+        {
+          "from": "write",
+          "to": "rewrite"
+        },
+        {
+          "from": "do",
+          "to": "redo"
+        },
+        {
+          "from": "use",
+          "to": "reuse"
+        },
+        {
+          "from": "new",
+          "to": "renew"
+        }
+      ]
+    },
+    {
+      "rule": "-able / -ible",
+      "description": "Verb → Adjective: means 'capable of being done'",
+      "examples": [
+        {
+          "from": "read",
+          "to": "readable"
+        },
+        {
+          "from": "do",
+          "to": "doable"
+        },
+        {
+          "from": "answer",
+          "to": "answerable"
+        },
+        {
+          "from": "change",
+          "to": "changeable"
+        },
+        {
+          "from": "move",
+          "to": "movable"
+        }
+      ]
+    },
+    {
+      "rule": "-ize / -ify",
+      "description": "Noun/Adjective → Verb: means to make or turn into",
+      "examples": [
+        {
+          "from": "beauty",
+          "to": "beautify"
+        },
+        {
+          "from": "real",
+          "to": "realize"
+        },
+        {
+          "from": "personal",
+          "to": "personalize"
+        },
+        {
+          "from": "national",
+          "to": "nationalize"
+        },
+        {
+          "from": "clarity",
+          "to": "clarify"
+        }
+      ]
+    },
+    {
+      "rule": "-ous",
+      "description": "Noun → Adjective: means 'full of' or 'having the nature of'",
+      "examples": [
+        {
+          "from": "danger",
+          "to": "dangerous"
+        },
+        {
+          "from": "number",
+          "to": "numerous"
+        },
+        {
+          "from": "joy",
+          "to": "joyous"
+        },
+        {
+          "from": "fame",
+          "to": "famous"
+        },
+        {
+          "from": "humour",
+          "to": "humorous"
+        }
+      ]
+    },
+    {
+      "rule": "-ive",
+      "description": "Verb/Noun → Adjective: describes a tendency to do something",
+      "examples": [
+        {
+          "from": "act",
+          "to": "active"
+        },
+        {
+          "from": "create",
+          "to": "creative"
+        },
+        {
+          "from": "inform",
+          "to": "informative"
+        },
+        {
+          "from": "produce",
+          "to": "productive"
+        },
+        {
+          "from": "support",
+          "to": "supportive"
+        }
+      ]
+    },
+    {
+      "rule": "-ity / -ty",
+      "description": "Adjective → Noun: forms abstract nouns from adjectives",
+      "examples": [
+        {
+          "from": "active",
+          "to": "activity"
+        },
+        {
+          "from": "creative",
+          "to": "creativity"
+        },
+        {
+          "from": "real",
+          "to": "reality"
+        },
+        {
+          "from": "national",
+          "to": "nationality"
+        },
+        {
+          "from": "personal",
+          "to": "personality"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "noun",
+    "verb",
+    "adjective",
+    "adverb",
+    "preposition",
+    "connector",
+    "article/quantifier"
+  ]
+}
